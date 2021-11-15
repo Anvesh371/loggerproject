@@ -1,0 +1,37 @@
+info: 11-14-2021 21:37:43: all customers are present
+info: 11-14-2021 21:37:57: we get particular  customer details
+error: 11-14-2021 21:38:12: customer not found
+info: 11-14-2021 21:38:40: customer deleted
+info: 11-14-2021 21:39:05: all customers are present
+info: 11-14-2021 21:40:27: customer updated
+info: 11-14-2021 21:41:41: customer deleted
+info: 11-14-2021 21:46:54: customer deleted
+error: 11-14-2021 21:47:04: customer not found
+info: 11-14-2021 21:59:43: customer deleted
+info: 11-14-2021 22:28:22: customer deleted
+info: 11-14-2021 22:29:26: all customers are present
+info: 11-14-2021 22:54:02: customer deleted
+info: 11-14-2021 23:02:00: customer deleted
+info: 11-14-2021 23:04:21: all customers are present
+info: 11-15-2021 08:09:55: all customers are prese
+info: 11-15-2021 08:11:26: customer deleted
+info: 11-15-2021 08:11:34: all customers are present
+error: 11-15-2021 08:13:38: customer not found
+error: 11-15-2021 09:14:29: customerId is not found
+
+info: 11-15-2021 19:20:20: customer deleted
+info: 11-15-2021 19:27:54: customer deleted
+info: 11-15-2021 19:29:45: customer deleted
+info: 11-15-2021 19:30:57: we get particular  customer details
+info: 11-15-2021 19:32:59: all customers are present
+info: 11-15-2021 19:33:19: customer deleted
+info: 11-15-2021 19:34:54: customer deleted
+info: 11-15-2021 19:36:34: customer deleted
+info: 11-15-2021 19:37:11: we get particular  customer details
+info: 11-15-2021 19:37:24: customer deleted
+error: 11-15-2021 19:39:58: customer not found
+info: 11-15-2021 19:40:22: all customers are present
+info: 11-15-2021 19:41:28: we get particular  customer details
+info: 11-15-2021 19:42:24: we get particular  customer details
+info: 11-15-2021 19:43:43: new customer added
+info: 11-15-2021 19:44:14: customer updated
